@@ -13,4 +13,4 @@
       identificar el mensaje que ira cambiando dentro del rango establecido(27x27) a execpcion de aquellos 
       que sean divisores de "3"
       
-![https://k60.kn3.net/taringa/3/0/0/4/1/5/santiissss/39E.png]
+![myimage-alt-tag](https://k60.kn3.net/taringa/3/0/0/4/1/5/santiissss/39E.png)
